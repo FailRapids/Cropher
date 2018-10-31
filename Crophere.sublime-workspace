@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"r",
+				"redirect"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"p",
+				"personalSite"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"al",
+				"altIndex"
+			],
+			[
+				"Da",
+				"DateTimeField"
+			],
+			[
+				"sou",
+				"sourceMap"
+			],
+			[
+				"ch",
+				"checkJs"
+			],
+			[
+				"a",
+				"allowJs"
+			],
+			[
+				"tf",
+				"tfjs"
+			],
+			[
+				"node",
+				"node_modules\tdirectory"
+			],
+			[
+				"requri",
+				"require"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"func",
+				"Function\t( paramsAndBody_..: string ): Function Function"
+			],
+			[
+				"proc",
+				"process"
+			],
+			[
+				"interpolate_",
+				"interpolate_property(...)"
+			],
+			[
+				"int",
+				"interpolate(...)"
+			],
+			[
+				"Rid",
+				"RigidBody2D"
+			],
+			[
+				"process",
+				"set_process(...)"
+			],
+			[
+				"set_pro",
+				"set_process(...)"
+			],
+			[
+				"colide",
+				"get_collider()"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"Static",
+				"StaticBody2D"
+			],
+			[
+				"qu",
+				"queue_free"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"d",
+				"delta"
+			],
+			[
+				"si",
+				"size()"
+			],
+			[
+				"en",
+				"end()"
+			],
+			[
+				"hp",
+				"hp_colors"
+			],
+			[
+				"ma",
+				"max_hp"
+			],
+			[
+				"Array",
+				"ARRAY_COLOR"
+			],
+			[
+				"nor",
+				"normal"
+			],
+			[
+				"clo",
+				"collision"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.json",
+			"settings":
+			{
+				"buffer_size": 537,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "home/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 149,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "home/templates/home/index.html",
+			"settings":
+			{
+				"buffer_size": 157,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"yum",
+				"yUML: Open Use Case Diagram in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/travis/Cropher",
+		"/home/travis/Cropher/personalSite"
+	],
+	"file_history":
+	[
+		"/home/travis/Desktop/django-backend/personalSite/personalSite/local_settings.py",
+		"/home/travis/Desktop/python-getting-started/hello/__init__.py",
+		"/home/travis/Desktop/django-backend/bin/activate",
+		"/home/travis/Desktop/Cropher/app.json",
+		"/home/travis/Desktop/Cropher/requirements.txt",
+		"/home/travis/Desktop/Cropher/Procfile",
+		"/home/travis/Desktop/Cropher/personalSite/wsgi.py",
+		"/home/travis/python-getting-started/requirements.txt",
+		"/home/travis/python-getting-started/manage.py",
+		"/home/travis/django-backend/personalSite/home/templates/home/index.html",
+		"/home/travis/Desktop/12.persistence-polish-and-project-structure/godot/final/actors/player/PlayerStateMachine.gd",
+		"/home/travis/Desktop/01.character-controller/godot/04.walk-and-run/end/characters/character.gd",
+		"/home/travis/Desktop/Prototypes/Build/Prototypes.html",
+		"/home/travis/Desktop/Prototypes/Build/Prototypes.js",
+		"/home/travis/Desktop/python-getting-started/README.md",
+		"/home/travis/Desktop/12.persistence-polish-and-project-structure/godot/final/actors/player/Player.tscn",
+		"/home/travis/Desktop/10.finite-state-machines/godot/final/player/state-machine-bad-use.gd",
+		"/home/travis/Desktop/10.finite-state-machines/godot/final/player/states/state.gd",
+		"/home/travis/Desktop/10.finite-state-machines/godot/final/player/state-machine.gd",
+		"/home/travis/Desktop/python-getting-started/requirements.txt",
+		"/home/travis/Desktop/python-getting-started/app.json",
+		"/media/travis/A80E-974C/.Trash-1000/files/README.md",
+		"/home/travis/Desktop/12.persistence-polish-and-project-structure/godot/final/actors/player/PlayerController.gd",
+		"/home/travis/django-backend/personalSite/root/views.py",
+		"/home/travis/Downloads/linux_wbfs_manager.sh",
+		"/home/travis/Desktop/index.html",
+		"/home/travis/.cache/.fr-nhNmZ0/linux-wbfs-manager/README",
+		"/home/travis/django-backend/personalSite/home/templates/base.html",
+		"/home/travis/django-backend/personalSite/personalSite/urls.py",
+		"/home/travis/django-backend/personalSite/personalSite/views.py",
+		"/home/travis/django-backend/personalSite/personalSite/templates/base.html",
+		"/home/travis/django-backend/personalSite/home/urls.py",
+		"/home/travis/django-backend/personalSite/personalSite/settings.py",
+		"/home/travis/django-backend/personalSite/home/models.py",
+		"/home/travis/django-backend/personalSite/home/views.py",
+		"/home/travis/django-backend/personalSite/home/templates/home/base.html",
+		"/home/travis/django-backend/personalSite/home/template/home/index.html",
+		"/home/travis/Desktop/godot-git/README.md",
+		"/home/travis/Desktop/django-backend/readme.txt",
+		"/home/travis/Desktop/django-backend/icpc/prompts/templates/prompts/index.html",
+		"/home/travis/Desktop/django-backend/learningSite/p5linkedlist/__init__.py",
+		"/home/travis/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/travis/.config/sublime-merge/Packages/User/Commit Message.sublime-settings",
+		"/home/travis/Desktop/django-backend/pip-selfcheck.json",
+		"/home/travis/New Game Project/New Game Project.js",
+		"/home/travis/Desktop/django-backend/.gitignore",
+		"/home/travis/New Game Project/New Game Project.html",
+		"/home/travis/django-backend/learningSite/polls/templates/polls/index.html",
+		"/home/travis/Desktop/p5js_project_server/demos/CodingTrain/binarytree/index.html",
+		"/home/travis/Desktop/p5js_project_server/index.html",
+		"/home/travis/django-backend/learningSite/polls/templates/polls/detail.html",
+		"/home/travis/Desktop/p5js_project_server/styles.css",
+		"/home/travis/Desktop/p5js_project_server/demos/CodingTrain/binarytree_viz/index.html",
+		"/home/travis/Desktop/django_backend/pyvenv.cfg",
+		"/home/travis/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/travis/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/travis/Desktop/django_backend1/django_backend/settings.py",
+		"/home/travis/Desktop/django_backend1/manage.py",
+		"/home/travis/django_backend/django_backend/settings.py",
+		"/home/travis/Desktop/django_backend1/templates/p5gallery/binarytree/index.html",
+		"/home/travis/Desktop/django_backend1/p5gallery/views.py",
+		"/home/travis/Desktop/django_backend1/p5gallery/urls.py",
+		"/home/travis/Desktop/django_backend1/p5gallery/templates/p5gallery/index.html",
+		"/home/travis/django_backend/p5gallery/apps.py",
+		"/home/travis/django_backend/django_backend/urls.py",
+		"/home/travis/django_backend/p5gallery/urls.py",
+		"/home/travis/django_backend/p5gallery/models.py",
+		"/home/travis/Desktop/p5js_project_server/package.json",
+		"/home/travis/Desktop/p5js_project_server/tsconfig.json",
+		"/home/travis/Desktop/p5js_project_server/local/CodeingTrain/compile.sh",
+		"/home/travis/Desktop/p5js_project_server/compile.sh",
+		"/home/travis/.cache/.fr-CXqOT3/README.md",
+		"/home/travis/Desktop/p5js_project_server/local/CodeingTrain/start_live.sh",
+		"/home/travis/Desktop/p5js_project_server/local/CodeingTrain/intro_example/~sketch.js",
+		"/home/travis/Desktop/p5js_project_server/start_server.sh",
+		"/home/travis/node_modules/@types/node/README.md",
+		"/usr/local/src/node/v10.10.0/lib/node_modules/@tensorflow/tfjs-node/README.md",
+		"/home/travis/.profile",
+		"/home/travis/.yarnrc",
+		"/home/travis/.bashrc",
+		"/home/travis/Desktop/simple_server/node_modules/@types/p5/package.json",
+		"/home/travis/node_modules/@tensorflow/tfjs-node/README.md",
+		"/home/travis/Desktop/simple_server/tsconfig.json",
+		"/home/travis/Desktop/simple_server/node_modules/ts-node/README.md",
+		"/home/travis/Desktop/simple_server/package.json",
+		"/home/travis/Desktop/simple_server/app.ts",
+		"/home/travis/Desktop/simple_server/src/CodeingTrain/binarytree/index.html",
+		"/home/travis/Desktop/simple_server/app.js",
+		"/home/travis/Desktop/simple_server/node_modules/@tensorflow/tfjs/README.md",
+		"/home/travis/Desktop/simple_server/src/common.ts",
+		"/usr/local/src/node/v10.10.0/README.md",
+		"/home/travis/Downloads/p5.js",
+		"/usr/local/src/node/v10.10.0/share/man/man1/node.1",
+		"/home/travis/godot/README.md",
+		"/home/travis/godot/addons/godot-git-control.funabab/user_settings.json",
+		"/home/travis/godot/addons/godot-git-control.funabab/plugin.gd",
+		"/usr/local/src/godot-git/misc/dist/docker/README.md",
+		"/home/travis/godot/addons/MangedLayers/plugin.cfg",
+		"/home/travis/godot/addons/MangedLayers/plugin.gd",
+		"/usr/local/bin/nodejs-npm",
+		"/home/travis/.cache/.fr-yglmif/p5.js",
+		"/home/travis/Desktop/HelloWorld/app.js",
+		"/home/travis/godot/LICENSE.txt",
+		"/home/travis/.config/sublime-text-3/Packages/yUML/README.md",
+		"/home/travis/.config/sublime-text-3/Packages/yUML/Default (Linux).sublime-keymap",
+		"/home/travis/godot/project.godot",
+		"/home/travis/godot/Breakout/Blocks/Block.gd",
+		"/home/travis/godot/Breakout/Paddles/Paddle.gd",
+		"/home/travis/godot/Breakout/Paddles/States/Move.gd",
+		"/home/travis/godot/Breakout/Game.gd",
+		"/home/travis/godot/.gitignore",
+		"/home/travis/godot/Breakout/Game.tscn",
+		"/home/travis/godot/Breakout/Balls/Ball.gd",
+		"/home/travis/godot/Breakout/Paddles/States/Idle.gd",
+		"/home/travis/A project for the really bored/Breakout/Paddles/Paddle.gd",
+		"/home/travis/A project for the really bored/Breakout/Paddles/Player/Player.gd",
+		"/home/travis/A project for the really bored/Platformer/Characters/Character.gd",
+		"/home/travis/A project for the really bored/Platformer/Characters/Player/Player.gd",
+		"/home/travis/Desktop/Sublime_Text.txt",
+		"/home/travis/A project for the really bored/Platformer/Characters/Player/States/Sprint.gd",
+		"/home/travis/A project for the really bored/Platformer/Characters/Player/States/Idle.gd",
+		"/home/travis/A project for the really bored/Platformer/Platformer.sublime-project"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wasm",
+			"</h1>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "home/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "home/templates/home/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 109.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 36.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 356.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Godot_Engine.sublime-build",
+	"project": "Crophere.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
